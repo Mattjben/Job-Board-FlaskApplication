@@ -32,10 +32,11 @@ To run make sure working directory contains:
 ![image](https://user-images.githubusercontent.com/100833957/218224223-83256d5c-bcf0-4e6a-9bd1-adb381f89552.png) 
 ![image](https://user-images.githubusercontent.com/100833957/218224246-70c8f46a-fe82-4715-917f-4cb602754ecc.png) 
 **Sign in/Sign up:**   
-![image](https://user-images.githubusercontent.com/100833957/218224270-52104efd-2976-40a8-935f-a13e94856a89.png) 
+![image](https://user-images.githubusercontent.com/100833957/218224270-52104efd-2976-40a8-935f-a13e94856a89.png)                                                        
 **Profile**  
 ![image](https://user-images.githubusercontent.com/100833957/218224365-1084be15-7fc4-474a-ac61-42abd99e35fd.png) 
 **Create Post**  
-![image](https://user-images.githubusercontent.com/100833957/218224455-34282158-45f8-499f-9b26-e3759b64f201.png) 
-**NLP MODEL SUGGESTION**  
 ![image](https://user-images.githubusercontent.com/100833957/218224474-e9ca9d35-9ba0-439f-979d-9e30c0efc51d.png) 
+**NLP MODEL SUGGESTION**  
+![image](https://user-images.githubusercontent.com/100833957/218224455-34282158-45f8-499f-9b26-e3759b64f201.png) 
+
