@@ -23,3 +23,7 @@ To run make sure working directory contains:
 		- stopwords_en.txt
 		- nlp.py : generates prediction using bag of words model 
 		- style.css: css file used to style html 
+
+
+INTRO PAGE: 
+![image](https://user-images.githubusercontent.com/100833957/218224142-802e27a0-14ba-4fff-acce-b71e845de621.png)
